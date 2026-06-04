@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bienvenido a Mi Perfil de GitHub
 
-<!--
-**IanVillamilSPS/IanVillamilSPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
+Hola, soy [Ian Villamil], soy [Consultor IT] en SPS. Me apasiona la tecnologia enfocado en el desarrollo de software.
 
-Here are some ideas to get you started:
+## Mi Rol en SPS
+*Soy Consultor IT Trainee por el momento.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y Expertise
+-Programacion con Java
+-SpringBoot
+-Python
+
+## Cómo Colaboro
+Me gusta tomar inciativa en nuevos proyectos para obtener soluciones reales.
+Me gusta pertenecer a equipos de trabajo que compartan mi pasión por la tecnologia y el desarrollo.
+
+## Contacto
+Correo Electrónico: [itvillamilf@spsolutions.com.mx]
+LinkedIn: [www.linkedin.com/in/ian-villamil-flores]
